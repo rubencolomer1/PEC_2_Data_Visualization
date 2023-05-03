@@ -14,3 +14,4 @@ Fuentes de datos:
 
 * https://www.kaggle.com/datasets/desalegngeb/students-exam-scores?select=Expanded_data_with_more_features.csv
 * https://www.kaggle.com/datasets/ppb00x/country-gdp
+* https://www.kaggle.com/datasets/shubhammeshram579/house
