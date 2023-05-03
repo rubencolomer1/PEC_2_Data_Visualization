@@ -6,7 +6,7 @@
 
 Las 3 visualizaciones realizadas son: 
 
-* Scatterplot: https://public.flourish.studio/visualisation/13594835/
+* Scatterplot: https://public.flourish.studio/visualisation/13629138/
 * SunBurst: https://public.flourish.studio/visualisation/13594803/
 * Ridgeline: Ridgeline Plot.ipynb
 
